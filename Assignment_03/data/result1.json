@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "Atlanta",
+        "avg age": 25.5
+    },
+    {
+        "_id": "Chicago",
+        "avg age": 32.0
+    },
+    {
+        "_id": "Seattle",
+        "avg age": 32.5
+    },
+    {
+        "_id": "Houston",
+        "avg age": 37.0
+    },
+    {
+        "_id": "Dallas",
+        "avg age": 37.0
+    }
+]

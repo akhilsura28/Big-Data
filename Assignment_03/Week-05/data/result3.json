@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "Dallas",
+        "average_combined_score": 70.17
+    },
+    {
+        "_id": "Seattle",
+        "average_combined_score": 87.5
+    },
+    {
+        "_id": "Chicago",
+        "average_combined_score": 76.33
+    },
+    {
+        "_id": "Atlanta",
+        "average_combined_score": 80.33
+    },
+    {
+        "_id": "Houston",
+        "average_combined_score": 72.5
+    }
+]

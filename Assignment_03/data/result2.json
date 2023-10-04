@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "Chicago",
+        "average_math_score": 82.5,
+        "average_english_score": 76.5,
+        "average_history_score": 70.0
+    },
+    {
+        "_id": "Houston",
+        "average_math_score": 67.0,
+        "average_english_score": 78.5,
+        "average_history_score": 72.0
+    },
+    {
+        "_id": "Seattle",
+        "average_math_score": 89.5,
+        "average_english_score": 86.5,
+        "average_history_score": 86.5
+    },
+    {
+        "_id": "Dallas",
+        "average_math_score": 72.5,
+        "average_english_score": 77.5,
+        "average_history_score": 60.5
+    },
+    {
+        "_id": "Atlanta",
+        "average_math_score": 68.5,
+        "average_english_score": 91.0,
+        "average_history_score": 81.5
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "name": "David Lee",
+        "age": 29,
+        "city": "Chicago",
+        "email": "bob.johnson@example.com",
+        "is_student": false,
+        "hobbies": [
+            "Cooking",
+            "Photography",
+            "Swimming",
+            "Dancing",
+            "Playing Music",
+            "Painting",
+            "Traveling",
+            "Hiking",
+            "Reading"
+        ],
+        "scores": {
+            "math": 93,
+            "english": 62,
+            "history": 79
+        }
+    },
+    {
+        "name": "David Lee",
+        "age": 38,
+        "city": "Houston",
+        "email": "bob.johnson@example.com",
+        "is_student": true,
+        "hobbies": [
+            "Playing Music",
+            "Painting"
+        ],
+        "scores": {
+            "math": 73,
+            "english": 62,
+            "history": 68
+        }
+    },
+    {
+        "name": "David Lee",
+        "age": 38,
+        "city": "Seattle",
+        "email": "bob.johnson@example.com",
+        "is_student": true,
+        "hobbies": [
+            "Reading",
+            "Cooking",
+            "Hiking"
+        ],
+        "scores": {
+            "math": 92,
+            "english": 78,
+            "history": 96
+        }
+    },
+    {
+        "name": "Bob Johnson",
+        "age": 36,
+        "city": "Dallas",
+        "email": "grace.turner@example.com",
+        "is_student": false,
+        "hobbies": [
+            "Painting",
+            "Dancing",
+            "Playing Music",
+            "Photography",
+            "Cooking",
+            "Reading",
+            "Hiking",
+            "Gardening"
+        ],
+        "scores": {
+            "math": 75,
+            "english": 90,
+            "history": 61
+        }
+    },
+    {
+        "name": "Ivy Robinson",
+        "age": 27,
+        "city": "Seattle",
+        "email": "charlie.brown@example.com",
+        "is_student": true,
+        "hobbies": [
+            "Reading",
+            "Hiking",
+            "Painting",
+            "Playing Music",
+            "Cooking"
+        ],
+        "scores": {
+            "math": 87,
+            "english": 95,
+            "history": 77
+        }
+    },
+    {
+        "name": "Alice Smith",
+        "age": 35,
+        "city": "Chicago",
+        "email": "frank.wilson@example.com",
+        "is_student": false,
+        "hobbies": [
+            "Painting",
+            "Reading",
+            "Dancing",
+            "Playing Music"
+        ],
+        "scores": {
+            "math": 72,
+            "english": 91,
+            "history": 61
+        }
+    },
+    {
+        "name": "Eva Davis",
+        "age": 21,
+        "city": "Atlanta",
+        "email": "jack.martinez@example.com",
+        "is_student": false,
+        "hobbies": [
+            "Reading",
+            "Cooking",
+            "Dancing",
+            "Gardening",
+            "Playing Music",
+            "Photography",
+            "Painting"
+        ],
+        "scores": {
+            "math": 77,
+            "english": 88,
+            "history": 64
+        }
+    },
+    {
+        "name": "Frank Wilson",
+        "age": 36,
+        "city": "Houston",
+        "email": "charlie.brown@example.com",
+        "is_student": false,
+        "hobbies": [
+            "Gardening",
+            "Hiking",
+            "Playing Music",
+            "Dancing",
+            "Cooking",
+            "Photography",
+            "Traveling"
+        ],
+        "scores": {
+            "math": 61,
+            "english": 95,
+            "history": 76
+        }
+    },
+    {
+        "name": "Henry Harris",
+        "age": 30,
+        "city": "Atlanta",
+        "email": "frank.wilson@example.com",
+        "is_student": true,
+        "hobbies": [
+            "Painting"
+        ],
+        "scores": {
+            "math": 60,
+            "english": 94,
+            "history": 99
+        }
+    },
+    {
+        "name": "Charlie Brown",
+        "age": 38,
+        "city": "Dallas",
+        "email": "david.lee@example.com",
+        "is_student": true,
+        "hobbies": [
+            "Gardening",
+            "Playing Music",
+            "Cooking",
+            "Reading"
+        ],
+        "scores": {
+            "math": 70,
+            "english": 65,
+            "history": 60
+        }
+    }
+]
