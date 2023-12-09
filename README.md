@@ -1,4 +1,4 @@
-### BigDataClass
+### Big-Data-Class
 
 ### Assignment_02
  To start the cassandra cluster run the start.sh script file.
